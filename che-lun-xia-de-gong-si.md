@@ -1,14 +1,28 @@
-# 仙童（fairchild）公司
 
-1957年10 月，诺依斯（N. Noyce）、摩尔（R.Moore）、布兰克（J.Blank）、克莱尔（E.Kliner）、赫尔尼（J.Hoerni）、拉斯特（J.Last）、罗伯茨（S.Boberts）和格里尼克（V.Grinich）共同从晶体管之父肖克利的实验室出走，创办了仙童（fairchild）公司，这就是历史上著名的“八天才叛逆”，从此，才有了我们熟悉的intel，AMD，IDT等等一大批我们熟知的企业。
+* [IBM](che-lun-xia-de-gong-si/ibm.md)
+  * [惠普HP](che-lun-xia-de-gong-si/hui-pu-hp.md)
+  * 仙童
+  * [数字设备公司](che-lun-xia-de-gong-si/shu-zi-she-bei-gong-si.md)
+  * [Intel](che-lun-xia-de-gong-si/intel.md)
+  * [AMD](che-lun-xia-de-gong-si/amd.md)
+  * [施乐（Xerox）](che-lun-xia-de-gong-si/shi-le-ff08-xerox.md)
+  * [微软](che-lun-xia-de-gong-si/wei-ruan.md)
+  * [Apple](che-lun-xia-de-gong-si/apple.md)
+  * [雅达利](che-lun-xia-de-gong-si/ya-da-li.md)
+  * [甲骨文（Oracle）](che-lun-xia-de-gong-si/jia-gu-wen-ff08-oracle.md)
+  * [DELL ](che-lun-xia-de-gong-si/dell.md)
+  * [id Soft ](che-lun-xia-de-gong-si/id-soft.md)
+  * [nVidia\(英伟达\)](che-lun-xia-de-gong-si/nvidiaying-wei-8fbe29.md)
+  * [3Dfx](che-lun-xia-de-gong-si/3dfx.md)
+  * [雅虎 Yahoo](che-lun-xia-de-gong-si/ya-hu-yahoo.md)
+  * [莲花公司](che-lun-xia-de-gong-si/lian-hua-gong-si.md)
+  * [sun 公司](che-lun-xia-de-gong-si/sun-gong-si.md)
+  * [铱星公司](che-lun-xia-de-gong-si/yi-xing-gong-si.md)
+  * [网景公司](che-lun-xia-de-gong-si/wang-jing-gong-si.md)
+  * [SONY ](che-lun-xia-de-gong-si/sony.md)
+  * [世嘉](che-lun-xia-de-gong-si/shi-jia.md)
 
-1959年7月30日，仙童公司向美国专利局申请专利“半导体集成电路”。
 
-1965年：仙童公司的摩尔发表了一篇仅有三页篇幅的论文，这就是对今后半导体发展有着深远意义的“摩尔定律”。
-
-1968年7月18日，从仙童公司辞职的戈登.摩尔（Gordon.Moore)，罗伯特.诺伊斯（Robert.Noyce），威廉.肖克利（William.Shockley）共同创立了Intel公司，从此为计算机的发展和普及做出了不可磨灭的贡献。
-
-1969年5月1日，桑德斯（Jerry Sanders）从仙童公司辞职，并利用十万美元创立了AMD公司。
 
 
 
