@@ -23,4 +23,6 @@
   * [id Soft ](che-lun-xia-de-gong-si/id-soft.md)
   * [nVidia\(英伟达\)](che-lun-xia-de-gong-si/nvidiaying-wei-8fbe29.md)
   * [3Dfx](che-lun-xia-de-gong-si/3dfx.md)
+  * [雅虎 Yahoo](che-lun-xia-de-gong-si/ya-hu-yahoo.md)
+  * [莲花公司](che-lun-xia-de-gong-si/lian-hua-gong-si.md)
 
