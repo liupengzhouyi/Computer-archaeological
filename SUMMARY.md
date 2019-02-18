@@ -19,4 +19,6 @@
   * [Apple](che-lun-xia-de-gong-si/apple.md)
   * [雅达利](che-lun-xia-de-gong-si/ya-da-li.md)
   * [甲骨文（Oracle）](che-lun-xia-de-gong-si/jia-gu-wen-ff08-oracle.md)
+  * [DELL ](che-lun-xia-de-gong-si/dell.md)
+  * [id Soft ](che-lun-xia-de-gong-si/id-soft.md)
 
