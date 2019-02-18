@@ -22,4 +22,5 @@
   * [DELL ](che-lun-xia-de-gong-si/dell.md)
   * [id Soft ](che-lun-xia-de-gong-si/id-soft.md)
   * [nVidia\(英伟达\)](che-lun-xia-de-gong-si/nvidiaying-wei-8fbe29.md)
+  * [3Dfx](che-lun-xia-de-gong-si/3dfx.md)
 
