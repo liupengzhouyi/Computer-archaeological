@@ -29,4 +29,5 @@
   * [铱星公司](che-lun-xia-de-gong-si/yi-xing-gong-si.md)
   * [网景公司](che-lun-xia-de-gong-si/wang-jing-gong-si.md)
   * [SONY ](che-lun-xia-de-gong-si/sony.md)
+  * [世嘉](che-lun-xia-de-gong-si/shi-jia.md)
 
