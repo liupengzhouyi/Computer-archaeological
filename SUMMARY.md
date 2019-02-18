@@ -12,4 +12,5 @@
   * [惠普HP](che-lun-xia-de-gong-si/hui-pu-hp.md)
   * 仙童
   * [数字设备公司](che-lun-xia-de-gong-si/shu-zi-she-bei-gong-si.md)
+  * [Intel](che-lun-xia-de-gong-si/intel.md)
 
