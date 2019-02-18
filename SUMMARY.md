@@ -7,6 +7,7 @@
   * [冯诺伊曼](ren-wu-li-cheng/feng-nuo-yi-man.md)
   * [香农](ren-wu-li-cheng/xiang-nong.md)
   * [特曼](ren-wu-li-cheng/te-man.md)
+  * [肖克利](ren-wu-li-cheng/xiao-ke-li.md)
 * [关键节点](guan-jian-jie-dian.md)
   * [第一台计算机](guan-jian-jie-dian/di-yi-tai-ji-suan-ji.md)
   * [计算机如何变小？](guan-jian-jie-dian/ji-suan-ji-ru-he-bian-xiao-ff1f.md)
