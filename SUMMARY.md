@@ -26,4 +26,5 @@
   * [雅虎 Yahoo](che-lun-xia-de-gong-si/ya-hu-yahoo.md)
   * [莲花公司](che-lun-xia-de-gong-si/lian-hua-gong-si.md)
   * [sun 公司](che-lun-xia-de-gong-si/sun-gong-si.md)
+  * [铱星公司](che-lun-xia-de-gong-si/yi-xing-gong-si.md)
 
