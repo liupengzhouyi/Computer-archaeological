@@ -14,4 +14,6 @@
   * [数字设备公司](che-lun-xia-de-gong-si/shu-zi-she-bei-gong-si.md)
   * [Intel](che-lun-xia-de-gong-si/intel.md)
   * [AMD](che-lun-xia-de-gong-si/amd.md)
+  * [施乐（Xerox）](che-lun-xia-de-gong-si/shi-le-ff08-xerox.md)
+  * [微软](che-lun-xia-de-gong-si/wei-ruan.md)
 
