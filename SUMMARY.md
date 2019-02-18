@@ -18,4 +18,5 @@
   * [微软](che-lun-xia-de-gong-si/wei-ruan.md)
   * [Apple](che-lun-xia-de-gong-si/apple.md)
   * [雅达利](che-lun-xia-de-gong-si/ya-da-li.md)
+  * [甲骨文（Oracle）](che-lun-xia-de-gong-si/jia-gu-wen-ff08-oracle.md)
 
