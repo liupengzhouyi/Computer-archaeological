@@ -16,4 +16,6 @@
   * [AMD](che-lun-xia-de-gong-si/amd.md)
   * [施乐（Xerox）](che-lun-xia-de-gong-si/shi-le-ff08-xerox.md)
   * [微软](che-lun-xia-de-gong-si/wei-ruan.md)
+  * [Apple](che-lun-xia-de-gong-si/apple.md)
+  * [雅达利](che-lun-xia-de-gong-si/ya-da-li.md)
 
