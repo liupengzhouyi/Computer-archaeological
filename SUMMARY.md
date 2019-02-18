@@ -21,4 +21,5 @@
   * [甲骨文（Oracle）](che-lun-xia-de-gong-si/jia-gu-wen-ff08-oracle.md)
   * [DELL ](che-lun-xia-de-gong-si/dell.md)
   * [id Soft ](che-lun-xia-de-gong-si/id-soft.md)
+  * [nVidia\(英伟达\)](che-lun-xia-de-gong-si/nvidiaying-wei-8fbe29.md)
 
