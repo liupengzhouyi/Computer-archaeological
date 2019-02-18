@@ -9,4 +9,6 @@
   * [计算机如何变小？](guan-jian-jie-dian/ji-suan-ji-ru-he-bian-xiao-ff1f.md)
 * [车轮下的公司](che-lun-xia-de-gong-si.md)
   * [IBM](che-lun-xia-de-gong-si/ibm.md)
+  * [惠普HP](che-lun-xia-de-gong-si/hui-pu-hp.md)
+  * 仙童
 
