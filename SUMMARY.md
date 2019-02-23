@@ -34,4 +34,6 @@
   * [网景公司](che-lun-xia-de-gong-si/wang-jing-gong-si.md)
   * [SONY ](che-lun-xia-de-gong-si/sony.md)
   * [世嘉](che-lun-xia-de-gong-si/shi-jia.md)
+* [games](games.md)
+  * [从我们自己开始说起的故事](games/cong-wo-men-zi-ji-kai-shi-shuo-qi-de-gu-shi.md)
 
