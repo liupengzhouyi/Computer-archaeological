@@ -36,8 +36,8 @@
   * [世嘉](che-lun-xia-de-gong-si/shi-jia.md)
 * [games](games.md)
   * [从我们自己开始说起的故事](games/cong-wo-men-zi-ji-kai-shi-shuo-qi-de-gu-shi.md)
-  * 雅达利
-  * 世嘉
-  * 任天堂
-  * 索尼
+  * [雅达利](games/ya-da-li.md)
+  * [世嘉](games/shi-jia.md)
+  * [任天堂](games/ren-tian-tang.md)
+  * [索尼](games/suo-ni.md)
 
