@@ -8,6 +8,10 @@
   * [香农](ren-wu-li-cheng/xiang-nong.md)
   * [特曼](ren-wu-li-cheng/te-man.md)
   * [肖克利](ren-wu-li-cheng/xiao-ke-li.md)
+  * [伯兰特·罗素](ren-wu-li-cheng/bo-lan-7279b7-luo-su.md)
+  * [库尔特·哥德尔](ren-wu-li-cheng/ku-er-7279b7-ge-de-er.md)
+  * [大卫·希尔伯特](ren-wu-li-cheng/da-536bb7-xi-er-bo-te.md)
+  * [图灵](ren-wu-li-cheng/tu-ling.md)
 * [关键节点](guan-jian-jie-dian.md)
   * [第一台计算机](guan-jian-jie-dian/di-yi-tai-ji-suan-ji.md)
   * [计算机如何变小？](guan-jian-jie-dian/ji-suan-ji-ru-he-bian-xiao-ff1f.md)
@@ -40,4 +44,5 @@
   * [世嘉](games/shi-jia.md)
   * [任天堂](games/ren-tian-tang.md)
   * [索尼](games/suo-ni.md)
+* [网络](wang-luo.md)
 
