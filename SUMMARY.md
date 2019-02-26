@@ -15,6 +15,7 @@
 * [关键节点](guan-jian-jie-dian.md)
   * [第一台计算机](guan-jian-jie-dian/di-yi-tai-ji-suan-ji.md)
   * [计算机如何变小？](guan-jian-jie-dian/ji-suan-ji-ru-he-bian-xiao-ff1f.md)
+  * [编程问题](guan-jian-jie-dian/bian-cheng-wen-ti.md)
 * [车轮下的公司](che-lun-xia-de-gong-si.md)
   * [IBM](che-lun-xia-de-gong-si/ibm.md)
   * [惠普HP](che-lun-xia-de-gong-si/hui-pu-hp.md)
